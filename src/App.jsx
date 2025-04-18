@@ -10,6 +10,7 @@ function App() {
      
       <h1>Flagship conceptual</h1>
       <h1 className='text-xl'>hello boss</h1>
+      <button className='btn btn-primary'>hello</button>
       
 
     </>
