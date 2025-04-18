@@ -1,16 +1,20 @@
-import { useState } from 'react'
+
 
 import './App.css'
+import { Outlet } from 'react-router'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
      
-      <h1>Flagship conceptual</h1>
-      <h1 className='text-xl'>hello boss</h1>
-      <button className='btn btn-primary'>hello</button>
+      {/* <h1>Navbar</h1>
+      <Outlet></Outlet>
+      <h1 className='text-xl'>Footer</h1> */}
+
+      
+      
       
 
     </>
